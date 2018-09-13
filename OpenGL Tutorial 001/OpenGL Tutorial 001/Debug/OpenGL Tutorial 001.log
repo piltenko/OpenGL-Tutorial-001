@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(128): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(136): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(273): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(274): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(278): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(279): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(281): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(282): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\andrew\documents\opengl\projects\opengl tutorial 001\opengl tutorial 001\main.cpp(290): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGL Tutorial 001.vcxproj -> C:\Users\Andrew\Documents\OpenGL\Projects\OpenGL Tutorial 001\Debug\OpenGL Tutorial 001.exe
